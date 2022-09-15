@@ -1,0 +1,12 @@
+name: Lobby
+version: '1.0-SNAPSHOT'
+main: de.windleak.lobby.Main
+api-version: 1.18
+authors: [ WindLeak ]
+description: Lobby System
+website: https://windleak.de
+commands:
+  fly:
+    description: Enable/Disable fly
+  playffa:
+    description: Play FFA
